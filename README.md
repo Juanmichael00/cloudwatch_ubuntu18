@@ -12,7 +12,9 @@
 
 cd /tmp<br>
 sudo wget https://raw.githubusercontent.com/juanmichael00/cloudwatch_ubuntu18/main/install_oregon.sh<br>
+
 sudo chmod +x install_virginia.sh<br>
+
 sudo ./install_virginia.sh<br>
 
 ------------------------------------------------------------------------------
